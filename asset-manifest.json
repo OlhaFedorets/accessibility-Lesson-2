@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/accessibility-Lesson-2/static/css/main.2a03d2d4.css",
+    "main.js": "/accessibility-Lesson-2/static/js/main.59c67ade.js",
+    "static/js/787.25eaef86.chunk.js": "/accessibility-Lesson-2/static/js/787.25eaef86.chunk.js",
+    "index.html": "/accessibility-Lesson-2/index.html",
+    "main.2a03d2d4.css.map": "/accessibility-Lesson-2/static/css/main.2a03d2d4.css.map",
+    "main.59c67ade.js.map": "/accessibility-Lesson-2/static/js/main.59c67ade.js.map",
+    "787.25eaef86.chunk.js.map": "/accessibility-Lesson-2/static/js/787.25eaef86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a03d2d4.css",
+    "static/js/main.59c67ade.js"
+  ]
+}
